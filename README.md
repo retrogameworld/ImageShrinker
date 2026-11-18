@@ -58,4 +58,4 @@ If you install `tkinterdnd2`, you can drag and drop files onto the list.
 
 ---
 
-Made by **M.B.**
+Made by r/evillurkz
