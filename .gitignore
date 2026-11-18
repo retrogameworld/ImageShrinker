@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.bak_*
+*.tmp_shrink
+_shrunk/
+_backup_originals/

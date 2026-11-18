@@ -1,0 +1,7 @@
+pillow
+# optional boosters (or use the "Install Boosters" button in the app)
+# imagequant
+# pyoxipng
+# numpy
+# mozjpeg-lossless-optimization
+# tkinterdnd2
